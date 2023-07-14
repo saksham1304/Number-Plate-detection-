@@ -1,2 +1,2 @@
 # Number-Plate-detection-
-Number plate decttion using easyocr and opencv
+Number plate detection using easyocr and opencv
